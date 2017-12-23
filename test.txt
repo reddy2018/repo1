@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is D0A9-5098
-
- Directory of C:\Users\user\Desktop\project
-
-23-12-2017  11:04    <DIR>          .
-23-12-2017  11:04    <DIR>          ..
-23-12-2017  11:04                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  96,506,179,584 bytes free
+changes 1
